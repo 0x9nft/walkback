@@ -2,6 +2,12 @@
 
 **A free browser life simulator that gives you the ending first.**
 
+> **NOT OPEN SOURCE.** This repository holds documentation and press material only.
+> The game's source code, dataset and design system are **not** published here.
+> No licence is granted to copy, modify or redistribute anything in this repository.
+> See `COPYRIGHT.md` for the exact permitted use.
+
+
 You are handed one life drawn from real demographic statistics — a country weighted by annual births, a sex, an age at death, a cause. Then you walk backwards through that life, one year at a time, until you reach the day you were born.
 
 Play it: **https://walkback.live/en**
